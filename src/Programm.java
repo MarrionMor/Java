@@ -3,5 +3,6 @@ public class Programm {
         System.out.println("Hello, world!");
         System.out.println("What's happened?");
         System.out.println("fjfjfj");
+        System.out.println("jfjf13666");
     }
 }
